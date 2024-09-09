@@ -1,4 +1,4 @@
-# Tidally-Fitness
+# Tidally Fitness
 ### Skills
 React Native, Expo, Firebase, Native Wind, Clerk, Figma
 ### Goal
